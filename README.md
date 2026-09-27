@@ -44,7 +44,7 @@ geolocation_zip_code_prefix, geolocation_lat, geolocation_lng, geolocation_city,
 product_category_name, product_category_name_english
 
 
-![contexto estrutura de dados](images/(Contexto/Coleta).catalogo_silver.png)
+![contexto estrutura de dados](images/images/(Contexto:Coleta).catalogo_silver.png)
 
 
 **Licença de uso:**
@@ -70,7 +70,7 @@ Download dos CSVs originais direto pelo Kaggle e upload manual para um Volume do
 - **dim_vendedores: **localização do vendedor.
 - **dim_tempo: **data de compra, ano, mês, dia da semana.
 
-![pipeline gold](images/(Pipeline).catalogo_gold)
+![pipeline gold](images/(Pipeline).catalogo_gold.png)
 
 **Catálogo de Dados:**
 ![Catálogo de Dados](images/catalogo_bronze.png)
